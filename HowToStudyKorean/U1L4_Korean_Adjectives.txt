@@ -12,15 +12,29 @@
 ? 나는 배를 원하다 = I want a boat
 ? 나는 big 배를 원하다 = I want a big boat
 
-- eliminate ‘~다’ and add ~ㄴ or ~은 to the stem of the adjective.
+- eliminate ‘~다’ and add ~ㄴ, ~은, ~는 to the stem of the adjective.
+- consonant to ~은
+- vowel to ~ㄴ
+- ~있다 to ~는
 
 ? 크다 > 크 > 큰 > 큰 배 (Big boat)
 ? 비싸다 > 비싸 > 비싼 > 비싼 음식 (Expensive food)
 ? 작다 > 작 > 작은 > 작은 남자 (Small man)
-
-? 저는 큰 배를 원하다 = I want a big boat
+? 재미있는 남자 (Funny man)
 
 - The first example is a sentence. The second example is word with adjective.
 ? 음식은 비싸다 = The food is expensive
 ? 비싼 음식 = expensive food
+
+!! To be a lot of: 많다
+- trying to force the rules/structure of English into Korean is unnatural
+? 사람이 많다 = People are a lot of
+? 사람이 많다 = there is a lot of people
+- some words use ~이/가 on the subject is more natural than ~는/은.
+
+!! Particle ~도
+- It has the meaning of “too/as well” 
+? 저도 한국어를 말하다 = I speak Korean as well (In addition to other people)
+? 저는 한국어도 말하다 = I speak Korean as well (in addition to other languages)
+
 
