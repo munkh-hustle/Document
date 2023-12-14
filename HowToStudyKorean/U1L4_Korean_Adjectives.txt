@@ -1,0 +1,26 @@
+# something
+% something
+- main script
+? example
+! something
+!! Topic
+
+!! Lesson 4: Korean Adjectives ~ㄴ/은
+
+!! Using Adjectives ~ㄴ/은
+
+? 나는 배를 원하다 = I want a boat
+? 나는 big 배를 원하다 = I want a big boat
+
+- eliminate ‘~다’ and add ~ㄴ or ~은 to the stem of the adjective.
+
+? 크다 > 크 > 큰 > 큰 배 (Big boat)
+? 비싸다 > 비싸 > 비싼 > 비싼 음식 (Expensive food)
+? 작다 > 작 > 작은 > 작은 남자 (Small man)
+
+? 저는 큰 배를 원하다 = I want a big boat
+
+- The first example is a sentence. The second example is word with adjective.
+? 음식은 비싸다 = The food is expensive
+? 비싼 음식 = expensive food
+
