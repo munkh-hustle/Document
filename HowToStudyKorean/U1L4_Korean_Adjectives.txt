@@ -33,8 +33,8 @@
 - some words use ~이/가 on the subject is more natural than ~는/은.
 
 !! Particle ~도
-- It has the meaning of “too/as well” 
+- It has the meaning of “too/as well”
+
+- In English these two are written the same, but sound different when speaking
 ? 저도 한국어를 말하다 = I speak Korean as well (In addition to other people)
 ? 저는 한국어도 말하다 = I speak Korean as well (in addition to other languages)
-
-
