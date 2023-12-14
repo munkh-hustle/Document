@@ -1,9 +1,61 @@
 # something
 % something
-- something
-? something
+- main script
+? example
 ! something
-!! something
+!! Topic
 
 !! Lesson 3: Korean Verbs/Adjectives
 - Every sentence must end verb, adjective, 이다, 있다.
+- Verb and adjective ends with the syllable ‘다’
+- Eliminate the ‘하다’ to make the noun form of that verb/adjective
+- Verbs/adjectives that end in “~하다” Chinese origin and have Hanja (한자)
+
+? 행복하다 = happy
+? 행복 = happiness
+
+!! Korean Verbs
+- Verbs can act on an object
+? I eat food
+? I는 food를 eat
+? 저는 음식을 먹다
+
+- Some verbs cannot act on an object (by default)
+? I slept home
+? I slept at home (at home is adverb)
+
+? I went restaurant
+? i went to the restaurant
+
+!! Korean Adjectives
+- Adjective can never act on an object
+? 나는 아름답다 = I am beautiful
+
+!! 의 Possessive Particle
+
+? 저 = I
+? 책 = book
+? 저의 책 = my book
+? 그 사람의 차 = That person’s car
+
+!! 좋다 and 좋아하다
+- 좋다 an adjective means “good”
+? 이 음식은 좋다 = this food is good
+
+- 좋아하다 verb means ‘to like’
+? 나는 이 음식을 좋아하다 = I like this food
+
+!! We, Us, and Our (우리)
+
+? He likes me
+? He likes us
+? I like you
+? We like you
+
+- 우리 means "We/Us"
+? 선생님은 우리를 좋아하다 = The teacher likes us
+
+- 우리의 means "Our"
+- “의” is very commonly omitted from words
+? 우리 선생님은 남자이다 = Our teacher is a man
+
