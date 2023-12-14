@@ -1,0 +1,57 @@
+# something
+% something
+- something
+? something
+! something
+!! something
+
+Unit 2 - Lesson 2: Korean Particles 이/가
+
+있다: 2 meaning
+@ 있다 = to be at a location
+@ 있다 = to have
+
+!!!
+
+있다: To have
+@ 있다 = to have | in Korean this is an adjective and cannot act on an object
+
+@ can attach ~이/가 to the object
+나는 펜을 있다 = I have a pen (incorrect)
+나는 펜이 있다 = I have a pen (correct)
+
+Indicating a Place or Time: ~에
+@ ~에 denotes a place or time
+@ possible to have ~에 used twice in a sentence
+
+!!!
+
+있다: To be at a location
+@ example
+I는 school에 am at
+나는 + 학교에 + 있다
+
+@ difference
+나는 학교가 있다 = I have a school (this could make sense)
+나는 학교에 있다 = I am at school
+나는 잡지가 있다 = I have a magazine
+나는 잡지에 있다 = I am at the magazine (this doesn’t make sense)
+
+@ position words
+안 = inside
+위 = on top
+밑 = below
+옆 = beside
+뒤 = behind
+앞 = in front
+
+@ 학교 앞에 = in front of the school
+
+!!!
+
+~이/가 as a Subject Marker
+@ different
+고양이는 집 뒤에 있다 = The cat is behind the house
+고양이가 집 뒤에 있다 = The cat is behind the house
+
+@ 는/은 = compared with something else
