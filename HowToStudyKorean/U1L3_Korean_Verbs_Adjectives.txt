@@ -6,3 +6,4 @@
 !! something
 
 !! Lesson 3: Korean Verbs/Adjectives
+- Every sentence must end verb, adjective, 이다, 있다.
