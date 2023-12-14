@@ -10,8 +10,7 @@
 - 저 means “I/me” formal
 - 나 means “I/me” informal
 
-- when ~가 is attached 나 (i/me) changes to 내가, and 저 changes to 제가
-- If ~가 is added to ~너 (you), it changes to 네가
+- when ~가 is attached 나 (i/me) to 내가, 저 (i/me) to 제가, ~너 (you) to 네가
 
 !! Basic Conjugation: Past, Present, Future
 
