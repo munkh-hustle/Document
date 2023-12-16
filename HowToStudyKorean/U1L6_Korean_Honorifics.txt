@@ -21,3 +21,46 @@
 - Formal high respect:
 - very high respect form but same as informal high respect
 
+!! Verbs
+!! Verb Present tense
+
+- Informal low respect:     ~어/아/여
+- Informal high respect:    ~어/아/여 + 요
+- Formal low respect:       ~ㄴ/는 + 다
+- Formal high respect:      ~ㅂ/습 + 니다
+
+!! Verb Past tense
+
+- Informal low respect:     ~었/았/였
+- Informal high respect:    ~었/았/였 + 요
+- Formal low respect:       ~었/았/였 + 다
+- Formal high respect:      ~었/았/였 + 습니다
+
+!! Verb Future tense
+
+- Informal low respect:     ~겠어
+- Informal high respect:    ~겠어 + 요
+- Formal low respect:       ~겠다
+- Formal high respect:      ~겠 + 습니다
+
+!! Adjectives
+!! Adjectives Present tense
+
+- Informal low respect:     ~어/아/여
+- Informal high respect:    ~어/아/여 + 요
+- Formal low respect:       ~
+- Formal high respect:      ~ㅂ/습 + 니다
+
+!! Adjectives Past tense
+
+- Informal low respect:     ~었/았/였
+- Informal high respect:    ~었/았/였 + 요
+- Formal low respect:       ~었/았/였 + 다
+- Formal high respect:      ~었/았/였 + 습니다
+
+!! Adjectives Future tense
+
+- Informal low respect:     ~겠어
+- Informal high respect:    ~겠어 + 요
+- Formal low respect:       ~겠다
+- Formal high respect:      ~겠 + 습니다
