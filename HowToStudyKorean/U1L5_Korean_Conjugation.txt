@@ -12,6 +12,68 @@
 
 - when ~가 is attached 나 (i/me) to 내가, 저 (i/me) to 제가, ~너 (you) to 네가
 
+- Korean grammar is based on adding things directly to verbs or adjectives to create a specific meaning
+
 !! Basic Conjugation: Past, Present, Future
 
 - diary form / plain form
+- writing to yourself in a diary
+- writing tests, books, research, newspaper, magazine
+- other times when one is not speaking/writing to a specific audience
+
+!! Verbs Present Tense
+
+- consonant ~는다
+? 먹다 > 먹는다 (to eat)
+
+- vowel ~ㄴ
+? 배우다 > 배운다 (to learn)
+
+!! Verbs Past Tense
+
+- ㅗㅏ      to ~았다
+- others    to ~었다 
+- 하        to ~였다
+? 먹다 > 먹었다
+? 닫다 > 닫았다
+
+- more complex ㅠ, ㅑ, ㅔ, etc…
+? 바래 + 었다 > 바랬다 or 바래었다
+
+!! Verbs Future Tense
+
+- any word to ~겠다
+? 나는 먹겠다 = I will eat
+
+- Two verbs specifically are conjugated without meaning in the future tenses
+- to express that somebody knows/doesn’t know something in the present tense
+? 알다      > 알겠다 (to know)
+? 모르다    > 모르겠다 (to not know)
+
+!! Adjectives Present Tense
+
+- doesn’t need anything
+- use as it is
+? 그 선생님은 아름답다 = that teacher is beautiful
+
+!! Adjectives Past Tense
+
+- same as verb past tense
+- ㅗㅏ      to ~았다
+- others    to ~었다 
+- 하        to ~였다
+? 그 선생님은 좋았다 = That teacher was good
+
+!! Adjectives Future Tense
+
+- same as verb future tense
+- any word to ~겠다
+? 나는 행복하겠다 = I will be happy
+
+!! Conjugating 있다 (Adj) and 있다 (V)
+
+- 있다 - To be at/in location | adjective
+- 있다 - To have something | adjective
+- 있다 - verb when a person (or animal) “staying” at a location or in a state for a period of time.
+
+

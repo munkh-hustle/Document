@@ -13,7 +13,7 @@ Unit 2 - Lesson 2: Korean Particles 이/가
 
 !!!
 
-있다: To have
+!! 있다: To have
 @ 있다 = to have | in Korean this is an adjective and cannot act on an object
 
 @ can attach ~이/가 to the object
@@ -26,7 +26,7 @@ Indicating a Place or Time: ~에
 
 !!!
 
-있다: To be at a location
+!! 있다: To be at a location | adjective
 @ example
 I는 school에 am at
 나는 + 학교에 + 있다
@@ -49,7 +49,7 @@ I는 school에 am at
 
 !!!
 
-~이/가 as a Subject Marker
+!! ~이/가 as a Subject Marker
 @ different
 고양이는 집 뒤에 있다 = The cat is behind the house
 고양이가 집 뒤에 있다 = The cat is behind the house
