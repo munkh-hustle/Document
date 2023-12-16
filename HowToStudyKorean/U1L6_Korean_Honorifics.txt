@@ -1,0 +1,23 @@
+# something
+% something
+- main script
+? example
+! something
+!! Topic
+
+!! Korea Honorific Endings
+
+- with different honorific endings have exactly the same meaning
+
+- Informal low respect: 
+- Used when talking to friends, people close with, younger
+
+- Informal high respect:
+- most situations
+
+- Formal low respect:
+- diary form, plain form, in writing language
+
+- Formal high respect:
+- very high respect form but same as informal high respect
+
