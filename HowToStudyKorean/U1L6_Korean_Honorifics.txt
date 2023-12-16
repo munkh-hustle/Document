@@ -31,16 +31,16 @@
 
 !! Verb Past tense
 
-- Informal low respect:     ~었/았/였
-- Informal high respect:    ~었/았/였 + 요
+- Informal low respect:     ~었/았/였 + 어
+- Informal high respect:    ~었/았/였 + 어요
 - Formal low respect:       ~었/았/였 + 다
 - Formal high respect:      ~었/았/였 + 습니다
 
 !! Verb Future tense
 
-- Informal low respect:     ~겠어
-- Informal high respect:    ~겠어 + 요
-- Formal low respect:       ~겠다
+- Informal low respect:     ~겠 + 어
+- Informal high respect:    ~겠 + 어요
+- Formal low respect:       ~겠 + 다
 - Formal high respect:      ~겠 + 습니다
 
 !! Adjectives
@@ -53,14 +53,14 @@
 
 !! Adjectives Past tense
 
-- Informal low respect:     ~었/았/였
-- Informal high respect:    ~었/았/였 + 요
+- Informal low respect:     ~었/았/였 + 어
+- Informal high respect:    ~었/았/였 + 어요
 - Formal low respect:       ~었/았/였 + 다
 - Formal high respect:      ~었/았/였 + 습니다
 
 !! Adjectives Future tense
 
-- Informal low respect:     ~겠어
-- Informal high respect:    ~겠어 + 요
-- Formal low respect:       ~겠다
+- Informal low respect:     ~겠 + 어
+- Informal high respect:    ~겠 + 어요
+- Formal low respect:       ~겠 + 다
 - Formal high respect:      ~겠 + 습니다
