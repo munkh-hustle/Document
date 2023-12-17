@@ -5,7 +5,7 @@
 ! something
 !! Topic
 
-!! Sentence Word Order
+!! Lesson 1: Sentence Word Order
 - S - O - V
 - S - V
 - S - Adj
