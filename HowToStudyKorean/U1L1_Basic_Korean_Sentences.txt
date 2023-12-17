@@ -1,24 +1,24 @@
 # something
 % something
-- something
-? something
+- main script
+? example
 ! something
-!! something
+!! Topic
 
-Sentence Word Order
-S - O - V
-S - V
-S - Adj
+!! Sentence Word Order
+- S - O - V
+- S - V
+- S - Adj
 
-@ Subject = doing the action of the verb:
-- He loves me
-- The dog ran fast
-- The clouds cleared up
+- Subject = doing the action of the verb:
+? He loves me
+? The dog ran fast
+? The clouds cleared up
 
 @ Object = the verb is acting on:
-- He ate rice
-- Students studied Korean
-- 
+? He ate rice
+? Students studied Korean
+ 
 @ No object in a sentence with an adjective
 
 @ Every Korean sentence must end in one of the following:
@@ -26,58 +26,42 @@ S - Adj
 - An adjective
 - 이다
 
-@ 이다 is neither a verb nor an adjective, but it behaves like them. 
+@ 이다 is neither a verb nor an adjective, but it behaves like them.
 
-!
-!
-!
+!! Korean Particles (~는/은 and ~를/을)
+- particle = something
+- particle = indicate the role of each word in a sentence
+- particle = no way of translating these particles to English
 
-Korean Particles (~는/은 and ~를/을)
-@ particle = something
-particle = indicate the role of each word in a sentence
-particle = no way of translating these particles to English
+- 는 or 은 (Subject) = to indicate that it is the subject of a sentence
+? 받짐O N은
+? 받짐X N는
 
-@ 는 or 은 (Subject) = to indicate that it is the subject of a sentence
-받짐O N은
-받짐X N는
+- 를 or 을 (Object) = to indicate that is the object of a sentence.
+? 받짐O N을
+? 받짐X N를
 
-@ 를 or 을 (Object) = to indicate that is the object of a sentence.
-받짐O N을
-받짐X N를
+- example
+? I speak Korean = I는 Korean을 speak
+? 는 is attached to “I” (the subject)
+? 을 is attached to “Korean” (the object)
 
-@ example
-I speak Korean = I는 Korean을 speak
-는 is attached to “I” (the subject)
-을 is attached to “Korean” (the object)
+!! To be: 이다
+- 이다 = to indicate that a noun is a noun
+- [noun은/는] [another noun][이다]
+? 나는 남자이다 = I am a man
+- Verbs and adjectives are not attached to nouns like this, but 이다 is
 
-!
-!
-!
+- it would make more sense if learners are introduced to sentence structure and then learn how to conjugate the words within the sentence.
 
-To be: 이다
-@ 이다 = to indicate that a noun is a noun
-[noun은/는] [another noun][이다]
-나는 남자이다 = I am a man
-Verbs and adjectives are not attached to nouns like this, but 이다 is
+!! This and That (이/그/저)
+- 이 = something that is within touching distance
+? 이 사람 = This person
 
-!
-!
-!
+- 그 = something from previous context
 
-it would make more sense if learners are introduced to sentence structure and then learn how to conjugate the words within the sentence.
+- 저 = something that we can see, but cannot touch
 
-!
-!
-!
-
-This and That (이/그/저)
-@ 이 = something that is within touching distance
-이 사람 = This person
-
-@ 그 = something from previous context
-
-@ 저 = something that we can see, but cannot touch
-
-이 사람 = This person
-그 사람 = That person
-저 사람 = That person
+? 이 사람 = This person
+? 그 사람 = That person
+? 저 사람 = That person
