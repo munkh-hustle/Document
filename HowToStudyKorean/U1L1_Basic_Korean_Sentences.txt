@@ -15,18 +15,18 @@
 ? The dog ran fast
 ? The clouds cleared up
 
-@ Object = the verb is acting on:
+- Object = the verb is acting on:
 ? He ate rice
 ? Students studied Korean
  
-@ No object in a sentence with an adjective
+- No object in a sentence with an adjective
 
-@ Every Korean sentence must end in one of the following:
+- Every Korean sentence must end in one of the following:
 - A verb
 - An adjective
 - 이다
 
-@ 이다 is neither a verb nor an adjective, but it behaves like them.
+- 이다 is neither a verb nor an adjective, but it behaves like them.
 
 !! Korean Particles (~는/은 and ~를/을)
 - particle = something
