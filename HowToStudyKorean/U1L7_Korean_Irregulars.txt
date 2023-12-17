@@ -4,3 +4,56 @@
 ? example
 ! something
 !! Topic
+
+!! Lesson 7: Korean Irregulars
+- Irregulars are applied to certain verbs or adjectives when adding something
+- The reason is to avoid changing sound after conjugating it
+
+!! ㅅ Irregular
+- the ㅅ gets removed when adding a vowel
+? 짓다 = to build
+? 짓 + 어 = 지어
+? 짓 + 었어요 = 지었어요
+
+? 낫다 = better (adjective) 
+? 잇다 = to continue (verb)
+
+- Common words that this does not apply to are:
+? 웃다 (to laugh)
+? 벗다 (to take off clothes)
+? 씻다 (to wash)
+
+!! ㄷ irregular
+- the ㄷ gets changed to ㄹ when adding a vowel
+- only done with verbs
+? 걷다 = to walk
+? 걷 + 어 = 걸어
+? 걷 + 었어요 = 걸었어요
+
+?         걷다 (to walk)      걷다 (to tuck)     걸다 (to hang)
+? Past    걸었어요	          걷었어요	          걸었어요
+? Present 걸어요	          걷어요	          걸어요
+? Future  걷겠어요	          걷겠어요	          걸겠어요
+
+- Common words that this does not apply to are:
+? 받다 (to get/receive)
+? 묻다 = 묻어요 (to bury)
+? 닫다 = 닫아요 (to close)
+
+!! ㅂ Irregular
+- the ㅂ changes to 우/오 when adding (a vowel) / (~ㄴ/은 to adjectives)
+- mostly done with adjectives
+- some verbs: 줍다 (to pick up), 눕다 (to lie down)
+
+? 쉽다 = to be easy
+? 쉽 + 어 = 쉬 + 우 + 어 = 쉬워
+
+? 쉽다 = easy
+? 쉽 + ㄴ = 쉬 + 우 + ㄴ = 쉬운
+
+- Some common words in which this does not apply:
+? 좁다 (narrow)
+? 잡다 (to catch/grab) 
+? 넓다 (wide) 
+
+!! ㅡ Irregular
