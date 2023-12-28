@@ -1,0 +1,48 @@
+# something
+% something
+- main script
+? example
+! something
+!! Topic
+
+!! Lesson 12: Korean Particles 들, 만, 에서, 부터, 까지, (으)로
+
+- 몇 - some
+? 나는 사과 한 개를 샀어 - i bought an apple
+? 나는 사과 몇 개를 샀어 - I bought SOME apples
+
+- 만- only
+? 나는 물만 마셔 - I only drink water
+
+- ~을/를 or ~은/는 eliminated
+? 나만 그 여자를 좋아해 - Only I like that girl
+? 나는 그 여자만 좋아해 - I only like that girl
+
+- others remain
+? 우리는 학교에만 갔어요 - We only went to school
+
+- 하다 can be separated to noun
+? 나는 공부했어 = I studied
+? 나는 공부를 했어 = I studied
+? 나는 공부만 했어  = i only studied
+
+- When using 그때, ~에 is often omitted because it can be assumed
+
+- 에 - denote location
+- the location that he/she is going to
+- the location that he/she looking at
+- the location that he/she places something on
+- the location that he/she places something in
+
+- 에서 - denote location
+- the location where subject is doing action
+
+? 저는 건물에 간판을 봤어요
+? In this sentence, where is the subject (저) when doing the action (보다)? ~에서 is not used in this sentence, so it is unknown as to where the subject was when he/she saw the sign. It might be known from context, but this specific sentence is not describing it. Therefore, the person is saying that he/she saw the sign “on the building” – as if he/she was walking by and saw the sign attached to the building in some way. The action did not occur at/on/in the building, it’s just the location in which he/she was looking at.
+
+? 저는 건물에서 간판을 봤어요
+? In this sentence, where is the subject (저) when doing this action (보다)? ~에서 is attached to “건물.” Therefore, the subject was in the building and saw the sign.
+
+
+
+
