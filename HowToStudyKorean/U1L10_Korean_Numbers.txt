@@ -1,0 +1,78 @@
+# something
+% something
+- main script
+? example
+! something
+!! Topic
+
+!! Lesson 10: Korean Numbers
+
+- don’t worry about memorizing when they should be used, as it will come naturally
+
+- 2 types of number. The pure Korean numbers, and from Chinese (called Sino-Korean numbers
+
+- Sino-korean number
+? 일 = one
+? 이 = two
+? 삼 = three
+? 사 = four
+? 오 = five
+
+- The Sino-Korean numbers are used in limited situations:
+- When counting/dealing with money
+- When measuring
+- When doing math
+- In phone-numbers
+- When talking about/counting time in any way except the hour
+- The names of each month
+- Counting months (there is another way to count months using pure Korean numbers)
+
+- Pure Korean Numbers
+? 하나 = one
+? 둘 = two
+? 셋 = three
+? 넷 = four
+? 다섯 = five
+
+- The pure Korean numbers are used:
+- You are counting things/people/actions
+- Talking about the hour in time
+- Sometimes used when talking about months
+
+!! Counters
+- 개 = counter for things
+- 명 = counter for people
+- 번 = counter for behaviors/actions
+
+- The words 1, 2, 3, 4 and 20 change when adding a counter:
+? 1 = 하나 -> 한
+? 2 = 둘 -> 두
+? 3 = 셋 -> 세
+? 4 = 넷 -> 네
+? 20 = 스물 -> 스무
+
+- when used:
+? 사람 한 명 = 1 person = 한 명의 사람
+? 펜 다섯 개 = 5 pens = 다섯 개의 펜
+? 펜 마흔네 개 = 44 pens = 마흔네 개의 펜
+
+? 나는 펜 네 개를 샀어 = I bought four pens
+? 나는 햄버거 두 개를 먹었어 = I ate two hamburgers
+
+- 번 – Counter of Behavior or Action
+? 저는 어제 학교에 세 번 갔어요 = I went to school three times yesterday
+? 저는 그 영화를 다섯 번 봤어요 = I saw that movie five times
+
+- Korean Time
+? 2시 30분 = 2:30, or
+? 두 시 삼십 분 = Two thirty
+
+- Age
+? 저의 여자 친구는 스물여섯 살이에요 = My girlfriend is twenty six years old
+
+- 번째: First, Second, Third, etc…
+? 첫 번째 = first
+? 두 번째 = second
+? 세 번째 = third
+? 네 번째 = fourth
+- After the number four, the words don’t change when adding 번째

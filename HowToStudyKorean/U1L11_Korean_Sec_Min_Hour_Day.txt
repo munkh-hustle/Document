@@ -1,0 +1,49 @@
+# something
+% something
+- main script
+? example
+! something
+!! Topic
+
+!! Lesson 11: 동안, Seconds, Minutes, Hours, Days, Weeks, Months, Years
+
+- 동안 - how long an action occurs
+? 2분 = 2 minutes
+? 2분 동안 = for 2 minutes
+
+- 시 - the hour on a clock
+- 시간 - counting hours
+? 3시 = 3:00
+? 3시간 동안 = for 3 hours
+
+- 지난 - Last
+- 다음 - Next
+
+- 지난 can be added only before SOME words of time. 
+- 지난 시간 - last time (but not “last hour”).
+- 다음 시간 - Next time
+
+!! Korean Days (일/날/하루)
+
+- 하루 - “one day”
+? 저는 하루 동안 여행했어요 - I traveled for 1 day
+
+- 날 - day
+? 저는 그 날에 갔어요 - I went on that day
+
+- 주 - Week
+- 달/개월 - month
+- 년 - year
+
+- 작년 - last year
+- 내년 - next year
+- 올해 - this year
+
+- 이번 - This Week/This Month/This Time
+? 저는 이번 주에 계획이 없어요 - I have no plans this week
+
+- 이번에 - 이번 시간
+
+- add the particle ~에 to indicate within that unit of time
+? 저는 이 약을 하루에 두 번 먹어요 - I eat (take) this medicine twice per day
+? 저는 1년에 두 번 미국에 가요 - I go to America twice per year

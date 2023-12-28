@@ -1,0 +1,56 @@
+# something
+% something
+- main script
+? example
+! something
+!! Topic
+
+!! Lesson 9: Conjugate 이다 (할 것이다)
+
+!! Present
+- Inf low 이야 / 야
+- Inf hig 이에요 | 예요
+- F low 이다
+- F hig 입니다
+
+!! Past
+- Inf low 이었어 | 옜어
+- Inf hig 이었어요 | 옜어요
+- F low 이었다 였다
+- F hig 이었습니다 | 였습니다
+
+- describe a noun in the future tense, they must be followed by a noun
+- The noun that is always used in this situation is 것 (thing):
+
+- Noun~ㄹ/을 N
+? 행복한 사람 = happy person
+? 행복할 사람 = a person that will be happy
+? 먹을 음식 = the food that will be eaten
+
+? 나는 행복할 것이다 = I am a thing who will be happy - i will be happy
+? 나는 먹을 것이다 = I am a thing who will eat - i will eat
+
+- 것 is also sometimes shortened to 거,
+? 저는 밥을 먹을 것이에요 = I will eat rice
+? 저는 밥을 먹을 거예요 = I will eat rice
+
+!! Future 이다  – Using 되다
+
+- there is difference in here.
+? 저는 선생님이 되었어요 = I became a teacher
+? 저는 선생님이었어요 = I was a teacher
+
+- no difference in future
+? 저는 곧 선생님이 될 것입니다 = I will become a teacher soon
+? 저는 곧 선생님일 거예요 = I will be a teacher soon
+
+- negative sentences 
+? 나는 미래에 의사가 되지 않을 거야 = I won’t become a doctor in the future
+? 나는 미래에 의사가 아닐 거야 = I won’t be a doctor in the future
+
+- guessing about a certain situation in the present tense
+? 그 사람이 의사일 거예요 = That person is probably/most likely a doctor
+? 그것은 여권일 거예요 = That thing is probably/most likely a passport
+? 문제는 돈일 거예요 = The problem is probably/most likely money
+
+

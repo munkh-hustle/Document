@@ -57,3 +57,43 @@
 ? 넓다 (wide) 
 
 !! ㅡ Irregular
+- the ㅡ is eliminated and ~아/어 merges to the stem
+? 잠그다 = to lock
+? 잠그 + 아 = 잠가
+
+? 바쁘다 = to be busy
+? 바쁘 + 아 = 바빠
+
+!! 르 Irregular
+- an additional ㄹ is created
+
+? 다르다 = different
+? 다르 + 아요 = 다 + ㄹ + 라요 = 달라요
+
+? 빠르다 = to be fast
+? 빠르 + 아요 = 빠 + ㄹ + 라요 = 빨라요
+
+!! ㄹ Irregular
+
+- If the final letter of a stem is ㄹ AND you add:
+
+- ㄴ/은
+- ㄴ/는
+- ㅂ/습
+- ㄹ/을
+
+- ㄹ Irregular: Adding ~ㄴ/은 to words
+? 길다 = long
+? 길 + ㄴ = 긴
+
+? 멀다 = far away
+? 멀 + ㄴ = 먼
+
+- ㄹ Irregular: Adding ~ㄴ/는 to words
+? 열다 = to open
+? 열 + ㄴ = 연
+
+- ㄹ Irregular: Adding ~ㅂ/습 to words
+- must remove ㄹ and add ~ㅂ
+? 열다 = to open
+? 엽니다

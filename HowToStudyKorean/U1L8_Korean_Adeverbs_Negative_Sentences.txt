@@ -1,0 +1,67 @@
+# something
+% something
+- main script
+? example
+! something
+!! Topic
+
+!! Lesson 8: Korean Adverbs, Negative Sentences in Korean
+
+!! Korean Adverbs
+- Adverbs = tell you when, where, or to what degree something is being done
+- they can essentially be placed at any place in the sentence
+
+- When: I went to work on TUESDAY
+- Where: I am INSIDE the house
+- Degree: I opened the door QUICKLY
+
+!! When and Where
+- when or where something is taking place, you must add the particle 에 to the end of that word
+- place에
+- time에
+
+!! To what degree/How much
+- While other adverbs are generally free to be placed anywhere in a sentence, adverbs like this that indicate a degree to which something is done are typically placed immediately before the verb
+
+? 저는 저의 친구를 자주 만나요 = I meet my friend often
+? 저는 밥을 많이 먹었어요 = I ate a lot of food (rice)
+? 저는 집에 바로 갔어요 = I went home immediately
+? 저는 숙제를 빨리 했어요 = I did my homework quickly
+
+- from their adjective forms to create an adverb
+- adding ‘게’ to the stem of an adjective
+? 쉽다 = easy	        쉽게 = easily
+? 다르다 = different	다르게 = differently
+? 비슷하다 = similar	비슷하게 = similarly
+
+- sometimes by changing 하다 to 히
+- Kor ppl don’t know "what is the difference 게 and 히"
+? 조용하다 = quiet	조용하게/조용히 = quietly
+
+!! Negative Sentences
+- two negative sentence types
+
+- By adding 안
+- 안 is adverb
+? 그 여자는 안 예뻐요 = That girl isn’t pretty
+
+- By adding ~지 않다
+? 그 여자는 예쁘지 않아요 = That girl isn’t pretty
+
+!! To not be: 아니다
+- 아니다 is the opposite of the word 이다.
+- 이다 is always attached directly to a noun
+- ~이/가 is attached and 아니다 is used as a separate
+
+!! To not have: 없다
+- 없다 is the opposite of 있다
+
+- To not have:
+? 저는 돈이 없어요 = I don’t have money
+? 저는 시간이 없어요 = I don’t have time
+? 우리는 차가 없어요 =  We don’t have a car
+
+- To not be in a location:
+? 저의 친구는 지금 한국에 없어요 = My friend is not in Korea now
+? 사람이 없었어요 = There was no people
+
