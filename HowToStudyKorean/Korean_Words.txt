@@ -3,9 +3,4 @@
 - something
 ? something
 ! something
-!! TOPIC
-
-!! Limitless by Jim
-
-!! Chapter: Memory
-
+!! something
