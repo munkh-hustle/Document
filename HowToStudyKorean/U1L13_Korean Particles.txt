@@ -1,5 +1,5 @@
 # something
-% something
+% question
 - main script
 ? example
 ! something
@@ -8,3 +8,9 @@
 !! Lesson 13: Korean Particles: and, with, to, from, for, about
 
 - (and): ~과/와, ~랑/이랑 and ~하고
+? 나는 사과와 바나나를 샀어 = I bought apples and bananas
+- both of them (together) sort of act as the single object
+% how to say "i bought banana, apple, orange and grape."
+
+- (with): ~과/와, ~랑/이랑 and ~하고
+? 저는 밥을 친구랑 저의 어머니랑 먹었어요 = I ate (rice*) with my mom and my friend
