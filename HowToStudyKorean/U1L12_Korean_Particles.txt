@@ -38,11 +38,19 @@
 - the location where subject is doing action
 
 ? 저는 건물에 간판을 봤어요
-? In this sentence, where is the subject (저) when doing the action (보다)? ~에서 is not used in this sentence, so it is unknown as to where the subject was when he/she saw the sign. It might be known from context, but this specific sentence is not describing it. Therefore, the person is saying that he/she saw the sign “on the building” – as if he/she was walking by and saw the sign attached to the building in some way. The action did not occur at/on/in the building, it’s just the location in which he/she was looking at.
+? the person is saying that he/she saw the sign “on the building” – as if he/she was walking by and saw the sign attached to the building in some way. The action did not occur at/on/in the building, it’s just the location in which he/she was looking at.
 
 ? 저는 건물에서 간판을 봤어요
-? In this sentence, where is the subject (저) when doing this action (보다)? ~에서 is attached to “건물.” Therefore, the subject was in the building and saw the sign.
+? the subject was in the building and saw the sign.
 
+- 여기서 instead of 여기에서
+- 거기서 instead of 거기에서
+- 저기서 instead of 저기에서
 
-
+- ~부터 - start/beginning place/time
+- ~까지 - endind point
+- ~(으)로 - what tool/device/method/material something is carried out
+- ~(으)로 - what spoken language
+- ~(으)로 - what you ate for a specific meal
+? 저는 보통 점심식사로 과일만 먹었어요 = I usually only ate fruit for lunch
 
